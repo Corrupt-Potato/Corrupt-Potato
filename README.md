@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Corrupt-Potato a.k.a Saahas a.k.a Sam
 - 👀 I’m interested in reading, soccer, and video games.
-- 🌱 I’m currently learning how to use Ml with Python as a senior in high school.
+- 🌱 I’m currently learning how to use ML with Python as a senior in high school.
 - 📫 How to reach me: saahas.pulivarthi@gmail.com
 
 <!---
