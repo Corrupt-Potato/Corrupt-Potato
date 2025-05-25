@@ -26,7 +26,7 @@ Built a high-fidelity backtester with end-of-bar execution and Parquet caching, 
 ### 📉 LSTM-Based Futures Forecasting (Deep Learning)
 Engineered a pure price-action forecasting system using TensorFlow/Keras + custom smoothing algorithms.  
 🔁 Automated data flow from NinjaTrader to model and back, enabling real-time predictions and charting.  
-> [`View Code`](#) | [`Coming Soon`](#)
+> Proprietary Code
 
 ---
 
@@ -34,7 +34,7 @@ Engineered a pure price-action forecasting system using TensorFlow/Keras + custo
 Scraped 5,000+ VT courses and visualized degree paths using graph theory.  
 Converted complex prerequisites to disjunctive normal form for smarter course planning.  
 🥇 Awarded "Best First-Time Hack" out of 180+ teams.  
-> [`View Project`](#)
+> [`View Project`](https://vtcoursenav.study/)
 
 ---
 
