@@ -19,7 +19,7 @@
 ### 📈 Event-Driven Backtesting Framework + MPT Strategy (Python)
 Built a high-fidelity backtester with end-of-bar execution and Parquet caching, powering an MPT-based intraday rebalancing strategy using `PyPortfolioOpt`.  
 📊 Achieved ~51% CAGR from 2017–2024, outperforming SPX & top 20 EW portfolios.  
-> [`View Code`](#) | [`Coming Soon`](#)
+> [`View Code`](https://github.com/Corrupt-Potato/EventDrivenBacktester) 
 
 ---
 
